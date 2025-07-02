@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel>
+<Hotels>
 	<Hotel rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -26,7 +26,7 @@
 	<Hotel rating="4.4">
 		<Name>AC Hotel Phoenix</Name>
 		<Phone>480-642-6140</Phone>
-		<Address NeartestAirport="Sky Harbor">
+		<Address NearestAirport="Sky Harbor">
 			<Number>100</Number>
 			<Street>E.Rio Salado Pkwy</Street>
 			<City>Tempe</City>
@@ -36,7 +36,7 @@
 	</Hotel>
 	<Hotel rating="4.2">
 		<Name>Fairfield Inn Suites</Name>
-		<Name>FairField Inn and Suites</Name>
+		<Name>Fairfield Inn and Suites</Name>
 		<Phone>520-536-8100</Phone>
 		<Address NearestAirport="">
 			<Number>1929</Number>
@@ -111,4 +111,4 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-</Hotel>
+</Hotels>

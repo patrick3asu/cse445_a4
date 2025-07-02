@@ -26,7 +26,7 @@
 	<Hotel rating="4.4">
 		<Name>AC Hotel Phoenix</Name>
 		<Phone>480-642-6140</Phone>
-		<Address NeartestAirport="Sky Harbor">
+		<Address NearestAirport="Sky Harbor">
 			<Number>100</Number>
 			<Street>E.Rio Salado Pkwy</Street>
 			<City>Tempe</City>

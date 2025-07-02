@@ -10,7 +10,7 @@
 							<xs:element name="Address">
 								<xs:complexType>
 									<xs:sequence>
-										<xs:element type="xs:byte" name="Number"/>
+										<xs:element type="xs:short" name="Number"/>
 										<xs:element type="xs:string" name="Street"/>
 										<xs:element type="xs:string" name="City"/>
 										<xs:element type="xs:string" name="State"/>
@@ -20,7 +20,7 @@
 								</xs:complexType>
 							</xs:element>
 						</xs:sequence>
-						<xs:attribute type="xs:float" name="rating"/>
+						<xs:attribute type="xs:float" name="rating" use="optional"/>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
