@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	<Hotel rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.6">
+		<Name>Fairmont Scottsdale Princess</Name>
+		<Phone>480-585-4848</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7575</Number>
+			<Street>E.Princess Dr</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.4">
+		<Name>AC Hotel Phoenix</Name>
+		<Phone>480-642-6140</Phone>
+		<Address NeartestAirport="Sky Harbor">
+			<Number>100</Number>
+			<Street>E.Rio Salado Pkwy</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.2">
+		<Name>Fairfield Inn Suites</Name>
+		<Phone>520-536-8100</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1929</Number>
+			<Street>E.Rio Salado Pkwy</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.2">
+		<Name>Hyatt House</Name>
+		<Phone>480-207-1578</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>601</Number>
+			<Street>E.6th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.1">
+		<Name>Vib Hotel</Name>
+		<Phone>480-805-2070</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>511</Number>
+			<Street>S.Farmer Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.6">
+		<Name>Townplace Suites</Name>
+		<Phone>520-536-8300</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1929</Number>
+			<Street>E.Rio Salado Pkwy</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.8">
+		<Name>Tempe Oasis</Name>
+		<Phone>480-219-9837</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>1635</Number>
+			<Street>N.Scottsdale Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85288</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="3.6">
+		<Name>Metro Tempe Apartments</Name>
+		<Phone>480-331-3630</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>2301</Number>
+			<Street>E.Southern Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+	<Hotel rating="4.5">
+		<Name>Omni Tempe Hotel</Name>
+		<Phone>602-794-8600</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>7</Number>
+			<Street>E.University Dr</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
